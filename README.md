@@ -4,4 +4,4 @@
 Este es un repositorio donde voy a subir proyectos en android
 
 
-![Java Web](https://raw.githubusercontent.com/LuizHuaman/ResponsiveWebDesign/master/app.jpg)
+![App Luiz](https://raw.githubusercontent.com/LuizHuaman/trabajosAndroid/master/app.jpg)
